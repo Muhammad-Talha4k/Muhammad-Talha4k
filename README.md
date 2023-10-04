@@ -1,3 +1,4 @@
+![logo](https://github.com/Muhammad-Talha4k/Muhammad-Talha4k/blob/main/github-banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Talha Sheikh</h1>
 <h3 align="center">Data Scientist| Machine Learning Engineer| Google Community Contributor|</h3>
 
