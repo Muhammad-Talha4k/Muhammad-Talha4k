@@ -2,7 +2,9 @@
 
 ###
 
-<h3 align="left">Passionate about developing & deploying innovative solutions that leverage the power of artificial intelligence and machine learning to solve real-world problems.</h3>
+<h4 align="left">Passionate about developing & deploying innovative solutions that leverage the power of artificial intelligence and machine learning to solve real-world problems.</h4>
+<br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Talha4k&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -11,7 +13,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
@@ -44,7 +46,9 @@
 ###
 
 ###
-<h3 align="left">Let’s connect and collaborate on innovative AI/ML solutions 🤝</h3>
+
+<br>
+<h4 align="left">Let’s connect and collaborate on innovative AI/ML solutions 🤝</h4>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
