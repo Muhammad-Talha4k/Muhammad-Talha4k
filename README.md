@@ -1,8 +1,8 @@
-<h3 align="center">Hi 👋, I'm Muhammad Talha Sheikh, AI/ML Engineer from Pakistan</h3>
+<h2 align="center">Hi 👋, I'm Muhammad Talha Sheikh, AI/ML Engineer from Pakistan</h2>
 
 ###
 
-<p align="left">Passionate about developing & deploying innovative solutions that leverage the power of artificial intelligence and machine learning to solve real-world problems.</p>
+<h3 align="left">Passionate about developing & deploying innovative solutions that leverage the power of artificial intelligence and machine learning to solve real-world problems.</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Talha4k&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -44,7 +44,7 @@
 ###
 
 ###
-<h4 align="left">Let’s connect and collaborate on innovative AI/ML solutions 🤝</h4>
+<h3 align="left">Let’s connect and collaborate on innovative AI/ML solutions 🤝</h3>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
