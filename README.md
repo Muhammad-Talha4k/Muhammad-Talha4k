@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Passionate about developing & deploying innovative solutions that leverage the power of artificial intelligence and machine learning to solve real-world problems.</h4>
+<h3 align="left">Passionate about developing & deploying innovative solutions that leverage the power of artificial intelligence and machine learning to solve real-world problems.</h3>
 <br>
 <br>
 
@@ -48,10 +48,13 @@
 ###
 
 <br>
-<h4 align="left">Let’s connect and collaborate on innovative AI/ML solutions 🤝</h4>
+<h3 align="left">Let’s connect and collaborate on innovative AI/ML solutions 🤝</h3>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:muhammadtalhasheikh50@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  
+  <a href="https://www.linkedin.com/in/muhammad-talha-sheikh-" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
